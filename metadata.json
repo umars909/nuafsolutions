@@ -1,0 +1,6 @@
+{
+  "name": "Nuaf Solutions",
+  "description": "Professional Plumbing & Handyman Services web app with instant inquiry submission, SMTP lead notification, rate estimator, and lead management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
